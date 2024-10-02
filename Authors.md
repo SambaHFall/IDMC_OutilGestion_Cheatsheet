@@ -4,4 +4,4 @@
 Team leader: Samba FALL
 
 * Junion1: Maiwenn Tellosa
-* Junior2: Prenom Nom...
+* Junior2: Lea Bouchet
