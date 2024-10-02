@@ -1,8 +1,8 @@
 # The teams 
 
 ## Team Name 1
-Team leader: ...
+Team leader: Samba FALL
 
-* Junior1: Prenom Nom
-* Junior2: Prenom Nom
+* Junion1: Maiwenn Tellosa
+* Junior2: Lea Bouchet
 * Junior3: Chalrotte Catoire
